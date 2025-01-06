@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/connectivity_app/static/css/main.f855e6bc.css",
+    "main.js": "/connectivity_app/static/js/main.12d9f885.js",
+    "static/js/373.c4ab2f86.chunk.js": "/connectivity_app/static/js/373.c4ab2f86.chunk.js",
+    "index.html": "/connectivity_app/index.html",
+    "main.f855e6bc.css.map": "/connectivity_app/static/css/main.f855e6bc.css.map",
+    "main.12d9f885.js.map": "/connectivity_app/static/js/main.12d9f885.js.map",
+    "373.c4ab2f86.chunk.js.map": "/connectivity_app/static/js/373.c4ab2f86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.12d9f885.js"
+  ]
+}
