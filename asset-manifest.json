@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/connectivity_app/static/css/main.b3b7ee81.css",
-    "main.js": "/connectivity_app/static/js/main.e422974b.js",
+    "main.js": "/connectivity_app/static/js/main.d5ea28a5.js",
     "static/js/373.c4ab2f86.chunk.js": "/connectivity_app/static/js/373.c4ab2f86.chunk.js",
     "index.html": "/connectivity_app/index.html",
     "main.b3b7ee81.css.map": "/connectivity_app/static/css/main.b3b7ee81.css.map",
-    "main.e422974b.js.map": "/connectivity_app/static/js/main.e422974b.js.map",
+    "main.d5ea28a5.js.map": "/connectivity_app/static/js/main.d5ea28a5.js.map",
     "373.c4ab2f86.chunk.js.map": "/connectivity_app/static/js/373.c4ab2f86.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b3b7ee81.css",
-    "static/js/main.e422974b.js"
+    "static/js/main.d5ea28a5.js"
   ]
 }
